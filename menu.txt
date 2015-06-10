@@ -1,0 +1,75 @@
+  436  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  866  git
+  867  git clone https://github.com/hailunzhu/hailunzhu.github.io
+  868  cd hailunzhu.github.io
+  871  git add --all
+  872  git commit -m "Initial attemp"
+  873  git push -u origin master
+  876  git add -all
+  877  git add --all
+  878  git commit -m "hello world page"
+  879  git push -u origin master
+  881  git clone https://github.com/hailunz/hailunz.github.io
+  882  cd hailunzhu.github.io
+  884  git status
+  885  git pull
+  888  mkdir github
+  889  mv hailunzhu.github.io github
+  891  cd github
+  893  git clone https://github.com/hailunzhu/MyProject
+  903  cd github/MyProject
+  912  vi github-light.css
+  925  git checkout http://github.com/hailunzhu/MyProject
+  926  git init
+  930  rm .git
+  931  rm -r .git
+  933  git init
+  934  git add .
+  935  git commit -m "initial commit"
+  936  git remote add origin http://github.com/hailunzhu/MyProject
+  937  git push -u origin masater
+  938  git push -u origin master
+  940  git status
+  964  git status
+  965  git add .
+  966  git commit -m "blog Mongodb"
+  967  git push -u origin master
+ 1001* git status
+ 1002* git add .
+ 1003* git commit -a "mongodb"
+ 1004* git commit -m "mongodb"
+ 1005* git push -u origin master
+ 1006  cd github
+ 1014  git add .
+ 1016  git add .
+ 1017  git commit -m "test"
+ 1018  git config --global --edit
+ 1019  git push -u origin master
+ 1021  git remote add origin http://github.com/hailunzhu/MyProject
+ 1022  git show-ref
+ 1026  git show-ref
+ 1030  git show-ref
+ 1032  git add .
+ 1033  git push
+ 1034  git add .
+ 1035  git show-ref
+ 1038* git show-ref
+ 1041* git show-ref
+ 1042* git remote show origin
+ 1043* git add .
+ 1044* git commit -m "test"
+ 1045* git push remote
+ 1046* git remote push origin
+ 1047* git push remote origin
+ 1048* git push origin remote
+ 1049* rm -r .git
+ 1050* rm -rf .git
+ 1052* git init
+ 1053* rm -rf .git
+ 1055* git remote add origin git@github.com:hailunzhu/MyProject/MongoDB
+ 1056* git remote add origin git@github.com:hailunzhu/MyProject.git
+ 1057* git remote add origin git@github.com:hailunzhu/MyProject/MyProject.git
+ 1058* git remote add origin http://hailunzhu/MyProject/MyProject.git
+ 1059* git remote add origin http://hailunzhu/MyProject/MyProject.gi
+ 1060* git remote add origin https://github.com/hailunzhu/MyProject.git
+ 1064  history | grep git
